@@ -15,6 +15,7 @@ h1{
 }
 button{
   border: 0;
+  border-radius: 30px;
   padding: 10px;
   font-size: 1em;
   outline: none;
@@ -27,4 +28,12 @@ button:hover{
 .container{
   padding: 250px 0;
 	margin: 30px;
+}
+footer ul{
+  margin: 0;
+}
+footer li{
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
 }
